@@ -1,0 +1,13 @@
+.user-card {
+  height: 220px;
+  padding: 25px 0;
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.choice-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+}
